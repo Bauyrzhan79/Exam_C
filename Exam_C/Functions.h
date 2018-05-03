@@ -1,0 +1,15 @@
+vremya generirVremya(vremya data);
+void generirMarka(char *Marka);
+void generirModelToy(char *Model);
+void generirModelMers(char *Model);
+void generirModelBMW(char *Model);
+void generirModelSub(char *Model);
+void generirModelVAZ(char *Model);
+void generirDvigatel(char *Dvigatel);
+void generirKuzov(char *Kuzov);
+void generirKPP(char *KPP);
+void generirPrivod(char *Privod);
+void generirRul(char *Rul);
+void generirNomer(char *Nomer);
+int generirNomMarsh(int NomerMarsh);
+int generirVremObmen();
